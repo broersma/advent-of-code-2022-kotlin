@@ -6,3 +6,6 @@ out/
 # Gradle
 .gradle
 build/
+
+# AoC
+input_day_*.txt
